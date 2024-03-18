@@ -1,5 +1,4 @@
 {   
-    "name": "wLoading",
-    "version": "2.0",
-    "news": "Prva verzija skripte."
+    "version": "1.0",
+    "news": "You are currently using the beta version."
 }
